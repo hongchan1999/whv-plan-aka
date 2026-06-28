@@ -1,0 +1,6 @@
+{
+  "name": "Aus WHV Intelligence Agent",
+  "description": "An AI agent to analyze social media posts for Australia Working Holiday Visa intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
